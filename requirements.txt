@@ -1,4 +1,4 @@
 gradio
 pandas
-scikit-learn
-joblib
+numpy<2
+onnxruntime>=1.18
